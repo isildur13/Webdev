@@ -59,17 +59,18 @@ console.log(value);
 
 
 // Weird issue for letter a
+// Last index of counts from the begining to the last occurence of the value.
 //-----------------------------------------------------------
-firstNaame = 'William';
+firstNaame = 'Williamson';
 //Index of the character
-
-val = firstNaame.indexOf('a'); 
-console.log(val);
+const indexval = 'l';
+val = firstNaame.indexOf(indexval); 
+console.log('index of \'' + indexval + '\' is ' + val + ' in ' + firstNaame);
 
 //Index of the character
-
-value = firstNaame.lastIndexOf('a');
-console.log(value);
+// indexval = 'l';
+value = firstNaame.lastIndexOf(indexval);
+console.log('index of \'' + indexval + '\' is ' + value + ' in ' + firstNaame);
 //-----------------------------------------------------------
 
 //character at charAt()
