@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "ticker": "XBZ",
+    "lastprice": "123",
+    "company":"Xuberant tech.."
+},
+{
+    "id": 2,
+    "ticker": "ZBX",
+    "lastprice": "2123",
+    "company":"Zeus tech.."
+},
+{
+    "id": 3,
+    "ticker": "BXZ",
+    "lastprice": "3",
+    "company":"Booz tech.."
+}
+]
